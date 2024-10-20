@@ -9,3 +9,4 @@ sphinx-typlog-theme==0.8.0
 sphinx-panels
 toml
 myst_nb
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
